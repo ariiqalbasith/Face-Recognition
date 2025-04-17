@@ -1,0 +1,21 @@
+INFO:root:Database initialized successfully
+INFO:root:New employee added: ID=2, Name=Alif
+INFO:root:Model trained with 21 samples from 1 people
+INFO:root:Database initialized successfully
+INFO:root:Attendance recorded for Alif (ID: 2)
+INFO:root:Database initialized successfully
+INFO:root:Database initialized successfully
+INFO:root:New employee added: ID=3, Name=Fadillah Muhammad
+INFO:root:Model trained with 41 samples from 2 people
+INFO:root:Database initialized successfully
+INFO:root:Attendance recorded for Fadillah Muhammad (ID: 3)
+INFO:root:Database initialized successfully
+INFO:root:Report exported to attendance_report_2025-04-15.csv
+INFO:root:Database initialized successfully
+INFO:root:New employee added: ID=1, Name=Ariiq Benedeta
+INFO:root:Model trained with 20 samples from 1 people
+INFO:root:Database initialized successfully
+INFO:root:Attendance recorded for Ariiq Benedeta (ID: 1)
+INFO:root:Report exported to attendance_report_2025-04-17.csv
+INFO:root:Database initialized successfully
+INFO:root:Application closed
